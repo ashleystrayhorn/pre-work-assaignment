@@ -1,2 +1,2 @@
-# pre-work-assaignment
-pre work assaignment
+# pre-work-assignment
+pre work assignment
